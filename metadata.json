@@ -1,0 +1,6 @@
+{
+  "name": "GharKharcha - Household Expense Tracker",
+  "description": "Smart household expense manager with flexible member profiles, expense logging, and family spending analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
